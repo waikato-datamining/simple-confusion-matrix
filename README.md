@@ -22,7 +22,7 @@ Python library for generating a confusion matrix from actual and predicted label
 
   ```commandline
   python3 -m venv venv
-  ./venv/bin/pip install simple-confusion-matrix
+  ./venv/bin/pip install simple_confusion_matrix
   ```
 
 ## Command-line usage
