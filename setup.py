@@ -13,7 +13,7 @@ def _read(f):
 
 
 setup(
-    name="simple-confusion-matrix",
+    name="simple_confusion_matrix",
     description="Python3 library for generating confusion matrices.",
     long_description=(
         _read('DESCRIPTION.rst') + b'\n' +
